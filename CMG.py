@@ -1,32 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import tkinter
 from tkinter import *
 import os
-
-
 
 rkt = Tk()
 rkt.geometry('450x430')
