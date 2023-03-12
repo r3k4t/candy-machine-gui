@@ -1,4 +1,4 @@
-[![candy-machine](https://img.shields.io/badge/CandyMachine-3.0-blue.svg)](https://docs.metaplex.com/developer-tools/sugar/guides/sugar-for-cmv3) [![Metaplex](https://img.shields.io/badge/Metaplex-blue.svg)](https://www.metaplex.com/) [![Solana](https://img.shields.io/badge/Solana-blue.svg)](https://www.solana.com/)
+[![candy-machine](https://img.shields.io/badge/CandyMachine-3.0-blue.svg)](https://docs.metaplex.com/developer-tools/sugar/guides/sugar-for-cmv3) [![Metaplex](https://img.shields.io/badge/Metaplex-blue.svg)](https://www.metaplex.com/) [![Solana](https://img.shields.io/badge/Solana-blue.svg)](https://www.solana.com/) [![Blockchain](https://img.shields.io/badge/Blockchain-blue.svg)](https://www.blockchain.com/)
 
 # Candy Machine Gui
 
