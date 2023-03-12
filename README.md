@@ -1,4 +1,4 @@
-[![candy-machine](https://img.shields.io/badge/CandyMachine-3.0.svg)](https://docs.metaplex.com/developer-tools/sugar/guides/sugar-for-cmv3)
+[![candy-machine](https://img.shields.io/badge/CandyMachine-3.0-blue.svg)](https://docs.metaplex.com/developer-tools/sugar/guides/sugar-for-cmv3)
 
 # Candy Machine Gui
 
